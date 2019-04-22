@@ -6,7 +6,7 @@ Escola | Ideias centrais | Visão da organização| Visão de Homem | Autor |Vis
 **Normativista** | <ul> <li>Centralização</li> <li>Unidade de comando</li> <li>Normas</li> <li>Divisão do trabalho</li> <li>Economias</li> </ul>| Formal | Homem econômico | Fayol |<ul><li>Excesso de normas.</li><li>Cetralismo exagerado.</li></ul>
 **Relações Humanas** | <ul><li>Pessoas têm qualidades que precisam ser estimuladas</li><li>Fatores emocionais interferem na eficiência do trabalho</li><li>O comportamento humano é complexo</li></ul> | Informal | Homem social | Hawthorne |<ul><li>Visão parcial do problema</li><li>Conclusões muito óbvias</li></ul>
 **Comportamento Humano** | <ul><li>Os indivíduos participam</li> <li>Tomam decisões </li><li>Resolvem problemas</li></ul>| Informal| Homem social | Herbert Simon |Parte da ótica dos proprietários da empresa.
-
+**Burocracia** | <ul><li>Padronização</li><li>Definir a racionalidade burocrática</li><li>Administração impessoal</li><li>Responsabilidade do cargo definidas</li></ul> | Formal | Homem Administrativo | Max Weber | <ul><li>Rotina inflexível</li><li>A insensibilidade das pessoas que vem de uma aderência inflexível a procedimentos e regras.</li></ul>
 
 
 
