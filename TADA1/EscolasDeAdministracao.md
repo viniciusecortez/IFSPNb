@@ -1,8 +1,13 @@
 # Teorias e Escolas de Administração
 
-**Escola** | **Ideias centrais** | **Visão da organização** | **Visão Crítica**
-:----:|:----:|:----:|:----:| 
-**Administração científica**| <ul><li>Economias</li><li>Produção em série</li><li>Subordinação funcional</li></ul>| Homem econômico| <ul><li>Supervalorização do operário </li><li>Visão microscópica do homem.</li></ul>
+**Escola** | **Ideias centrais** | **Visão da organização** | **Visão de Homem** |**Visão Crítica** 
+:----:|:----:|:----:|:----:|:------:
+**Administração científica**| <ul><li>Economias</li><li>Produção em série</li><li>Subordinação funcional</li></ul>| Formal|Homem econômico| <ul><li>Supervalorização do operário </li><li>Visão microscópica do homem.</li></ul>
+**Normativista** | Centralização, unidade de comando, normas, divisão do trabalho, economias | Formal | Homem econômico | <ul><li>Excesso de normas.</li><li>Cetralismo exagerado.</li></ul>
+
+
+
+
 ## Teoria da administração científica
 ### Propósito
 Essa teoria permite a melhora dos trabalhadores no desempenho das suas atividades no seguinte processo:
