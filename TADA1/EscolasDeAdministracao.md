@@ -1,9 +1,9 @@
 # Teorias e Escolas de Administração
 
-**Escola** | **Ideias centrais** | **Visão da organização** | **Visão de Homem** |**Visão Crítica** 
-:----:|:----:|:----:|:----:|:------:
-**Administração científica**| <ul><li>Economias</li><li>Produção em série</li><li>Subordinação funcional</li></ul>| Formal|Homem econômico| <ul><li>Supervalorização do operário </li><li>Visão microscópica do homem.</li></ul>
-**Normativista** | Centralização, unidade de comando, normas, divisão do trabalho, economias | Formal | Homem econômico | <ul><li>Excesso de normas.</li><li>Cetralismo exagerado.</li></ul>
+Escola | Ideias centrais | Visão da organização| Visão de Homem | Autor |Visão Crítica 
+:----:|:----|:----:|:-----:|:------: | :-----:
+**Administração científica**| <ul><li>Economias</li><li>Produção em série</li><li>Subordinação funcional</li></ul>| Formal|Homem econômico|Taylor |<ul><li>Supervalorização do operário </li><li>Visão microscópica do homem.</li></ul> 
+**Normativista** | <ul> <li>Centralização</li> <li>Unidade de comando</li> <li>Normas</li> <li>Divisão do trabalho</li> <li>Economias</li> </ul>| Formal | Homem econômico | Fayol |<ul><li>Excesso de normas.</li><li>Cetralismo exagerado.</li></ul>
 
 
 
