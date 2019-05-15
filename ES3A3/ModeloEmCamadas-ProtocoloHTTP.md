@@ -9,7 +9,9 @@
 **FrontController** | Manipula as requisições e transfere para os controllers sendo o ponto de entrada para as requisições. Serve como mecanismo de rotas.
 **Templete View** | Ideais de ter um templete que representa a perspectiva do usuário e é implementado de dinamicamente com parte da linguagem de programação.
 
-É mais vantajoso utilizar o mvc em conjunto com outros patterns.
+É mais 
+
+
 ## Protocolo http
 * Estabelecimento de uma linguagem comum de aplicação
 * Protocolo padrão usado na internet
